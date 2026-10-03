@@ -1,0 +1,24 @@
+# Prerequisites
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Build directories
+build/
+bin/
+out/
+.cache/
+
+# Environment and secrets
+.env
+.env.local
+*.log
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.suo
+*.user
